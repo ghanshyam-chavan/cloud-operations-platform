@@ -44,7 +44,7 @@ export function Contact() {
             </a>
 
             <a
-              href="https://linkedin.com/in/ghanshyamchavan"
+              href="https://www.linkedin.com/in/ghanshyamchavancloud/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 bg-secondary text-foreground font-semibold rounded-lg hover:bg-secondary/80 transition-colors border border-border"
@@ -56,7 +56,7 @@ export function Contact() {
             </a>
 
             <a
-              href="https://github.com/ghanshyamchavan"
+              href="https://github.com/ghanshyam-chavan"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 bg-secondary text-foreground font-semibold rounded-lg hover:bg-secondary/80 transition-colors border border-border"
